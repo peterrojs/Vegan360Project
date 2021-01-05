@@ -1,0 +1,56 @@
+<resources>
+    <!-- Application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <!-- Facebook Button Style -->
+    <style name="facebookButtonStyle">
+        <item name="colorButtonNormal">@color/facebookPrimary</item>
+        <item name="colorControlHighlight">@color/facebookPressed</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <!-- Twitter Button Style -->
+    <style name="twitterButtonStyle">
+        <item name="colorButtonNormal">@color/twitterPrimary</item>
+        <item name="colorControlHighlight">@color/twitterPressed</item>
+    </style>
+
+    <!-- Google Button Style -->
+    <style name="googleButtonStyle">
+        <item name="colorButtonNormal">@color/googlePrimary</item>
+        <item name="colorControlHighlight">@color/googlePressed</item>
+    </style>
+
+    <!-- Splash Style -->
+    <style name="NoActionBar" parent="AppTheme">
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- BetterVegan button style -->
+    <style name="betterVeganButtonStyle">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/pressedAccent</item>
+    </style>
+
+</resources>

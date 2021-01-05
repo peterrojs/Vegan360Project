@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name" translatable="false">Vegan360</string>
+    <string name="facebook_app_id" translatable="false">295678557514712</string>
+
+    <!-- Sign in buttons -->
+    <string name="facebookSignInText">Continue with Facebook</string>
+    <string name="twitterSignInText">Continue with Twitter</string>
+    <string name="googleSignInText">Continue with Google</string>
+
+    <string name="letsGetStarted">Let\'s Get Started</string>
+    <string name="sign_out_text">Sign Out</string>
+
+    <!-- Text in LoginActivity -->
+    <string name="loginText">Helping You Become \n a Better Vegan</string>
+
+    <!-- Activity titles -->
+    <string name="title_activity_betterVegan">BetterVegan</string>
+    <string name="title_activity_recipes">Recipes</string>
+    <string name="title_activity_restaurants">Restaurants</string>
+
+    <string name="title_activity_drawer">Vegan360</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Loading fragment -->
+    <string name="dataServer">Getting data from the server</string>
+    <string name="workingMagic">Working our magic</string>
+
+    <!-- BetterVegan project -->
+    <string name="BetterVeganName">BetterVegan</string>
+    <string name="iAmAWoman">I\'m a woman</string>
+    <string name="iAmAMan">I\'m a man</string>
+    <string name="iAmOther">I\'m non-binary</string>
+
+    <string name="BetterVeganText">BetterVegan is a Vegan360 feature that\'ll help you get enough nutrition through the day just with a snap of the dish you are about to eat</string>
+
+    <string name="BetterVeganGender">What\'s your biological gender?</string>
+    <string name="title_activity_news">NewsActivity</string>
+
+    <!-- Navigation Drawer -->
+    <string name="bugReport">Report a Bug</string>
+    <string name="news">News</string>
+    <string name="recipes">Recipes</string>
+    <string name="restaurants">Restaurants</string>
+</resources>

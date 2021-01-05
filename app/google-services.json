@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "630380559663",
+    "firebase_url": "https://vegan360-159509.firebaseio.com",
+    "project_id": "vegan360-159509",
+    "storage_bucket": "vegan360-159509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630380559663:android:a1fd7ca6fd8cd105",
+        "android_client_info": {
+          "package_name": "us.peterrojs.vegan360project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630380559663-dsfoljk9mpvj1h5ah9nbooidh5m9p7ta.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "630380559663-3m45ta7kelvqci9eb0hnsco5c662bsqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqxGSh7ArVCjOyVV3WkaDvZ9alI1Qviys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630380559663-dsfoljk9mpvj1h5ah9nbooidh5m9p7ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

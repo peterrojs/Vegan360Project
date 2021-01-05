@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#43A047</color>
+    <color name="colorAccent">#F57C00</color>
+
+    <!-- Facebook Button Colors -->
+    <color name="facebookPrimary">#3b5998</color>
+    <color name="facebookPressed">#1D315B</color>
+
+    <!-- Twitter Button Colors -->
+    <color name="twitterPrimary">#1da1f2</color>
+    <color name="twitterPressed">#006DAA</color>
+
+    <!-- Google Button Colors -->
+    <color name="googlePrimary">#4184F3</color>
+    <color name="googlePressed">#3976D6</color>
+
+    <!-- BetterVegan Let's get Started button -->
+    <color name="pressedAccent">#EF6C00</color>
+
+
+</resources>
